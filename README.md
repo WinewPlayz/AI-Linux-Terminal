@@ -60,13 +60,13 @@ Exiting AI Terminal. Goodbye!
 2. Install the required Python packages:
 
    ```bash
-   pip install requests
+   pip install requests readline
    ```
 
 3. Run the AI terminal:
 
    ```bash
-   python3 ai_terminal.py
+   python3 aiterminal.py
    ```
 
 ## How It Works
