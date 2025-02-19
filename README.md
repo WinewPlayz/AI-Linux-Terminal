@@ -53,7 +53,7 @@ Exiting AI Terminal. Goodbye!
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-linux-terminal.git
+   git clone https://github.com/WinewPlayz/ai-linux-terminal.git
    cd ai-linux-terminal
    ```
 
