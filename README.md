@@ -42,7 +42,7 @@ Exiting AI Terminal. Goodbye!
 This method automates the installation process using a script.
 
 ```bash
-git clone https://github.com/your-username/ai-linux-terminal.git
+git clone https://github.com/WinewPlayz/ai-linux-terminal.git
 cd ai-linux-terminal
 chmod +x autoinstallreq.sh
 ./autoinstallreq.sh
@@ -68,7 +68,7 @@ If you prefer to install the dependencies manually, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-linux-terminal.git
+   git clone https://github.com/WinewPlayz/ai-linux-terminal.git
    cd ai-linux-terminal
    ```
 
