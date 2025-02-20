@@ -37,7 +37,22 @@ Exiting AI Terminal. Goodbye!
 
 ## Installation
 
-### Prerequisites
+#### 1. Auto Install (Recommended)
+
+This method automates the installation process using a script.
+
+```bash
+git clone https://github.com/your-username/ai-linux-terminal.git
+cd ai-linux-terminal
+chmod +x autoinstallreq.sh
+./autoinstallreq.sh
+```
+
+#### 2. Manual Install
+
+If you prefer to install the dependencies manually, follow these steps:
+
+##### Prerequisites
 
 - **Ollama**: Install Ollama from [https://ollama.ai/](https://ollama.ai/).
 - **CodeLlama Model**: Pull the CodeLlama model using Ollama:
@@ -48,25 +63,25 @@ Exiting AI Terminal. Goodbye!
 
 - **Python 3.7+**: Ensure Python 3.7 or later is installed on your system.
 
-### Steps
+##### Steps
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/WinewPlayz/ai-linux-terminal.git
+   git clone https://github.com/your-username/ai-linux-terminal.git
    cd ai-linux-terminal
    ```
 
 2. Install the required Python packages:
 
    ```bash
-   pip install requests readline
+   pip install requests
    ```
 
 3. Run the AI terminal:
 
    ```bash
-   python3 aiterminal.py
+   python3 ai_terminal.py
    ```
 
 ## How It Works
